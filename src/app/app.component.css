@@ -1,0 +1,26 @@
+.carre1{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.carre2{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: flex-end;
+    top: 500px;
+}
+.carre3{
+       display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: flex-start;
+    top: -102px;
+}
+.carre4{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: flex-start;
+    top: 399px;
+}
